@@ -1,4 +1,4 @@
-# hello_world
+自动化部署luchas.github.io前端
 
 ## Project setup
 ```
@@ -25,5 +25,3 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
